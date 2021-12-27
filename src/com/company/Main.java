@@ -16,5 +16,12 @@ public class Main {
         System.out.println(e);
         double f = 0.88888888888;
         System.out.println(f);
+        boolean g = 12 > 6;
+        System.out.println(g);
+        char i = 35;
+        char h = '#';
+        System.out.println(i + h);
+
+
     }
 }
